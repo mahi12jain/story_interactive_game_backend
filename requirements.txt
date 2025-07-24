@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+python-dotenv
+alembic
+asyncpg
+psycopg2
+psycopg2-binary 
+passlib
+aiomysql
+python-jose[cryptography]
+requests

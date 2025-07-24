@@ -1,0 +1,6 @@
+User schemas: Registration, login, profile updates
+Story schemas: Creation, updates, listing
+StoryNode schemas: Node management
+Choice schemas: Choice creation and management
+UserProgress schemas: Game state tracking
+UserStats schemas: Statistics tracking
